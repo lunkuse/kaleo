@@ -10,4 +10,40 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+
+
+    <string name="hint_name">Names</string>
+
+    <string name="sign_up">SIGN UP</string>
+    <string name="has_registered_login">Has registered. Login</string>
+    <string name="phone">Phone</string>
+    <string name="reset_password">Enter your email to reset your password</string>
+    <string name="password_reset_message">Password recovery instruction has been sent to you</string>
+
+    <string name="booking">View Cars</string>
+    <string name="search_cars">Search Cars</string>
+    <string name="my_profile">My Profile</string>
+    <string name="home">Home</string>
+    <string name="share">Share</string>
+    <string name="feedback">Feedback</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">Logout</string>
+    <string-array name="car_option">
+        <item>All</item>
+        <item>7 Seater</item>
+        <item>4 Seater</item>
+        <item>2 Seater</item>
+    </string-array>
+
+    <string-array name="car_size">
+        <item>Mini</item>
+        <item>Economy</item>
+        <item>SUV</item>
+        <item>7 Seater</item>
+        <item>Convertible</item>
+    </string-array>
 </resources>
